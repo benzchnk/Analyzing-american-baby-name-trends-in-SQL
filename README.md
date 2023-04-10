@@ -10,6 +10,7 @@ Technology
 Prerequisites
   - Data Manipulation
   - Joining Data in SQL
+
 Task
   - 8 project tasks
 

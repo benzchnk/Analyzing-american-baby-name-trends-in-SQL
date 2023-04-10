@@ -7,6 +7,7 @@ Let's take a look at my code and result set! :)
 
 Technology 
   - SQL
+
 Prerequisites
   - Data Manipulation
   - Joining Data in SQL
